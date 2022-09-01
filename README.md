@@ -5,7 +5,7 @@ Source code for [Evaluation of Similarity-based Explanations](https://openreview
 
 ## Setup
 - Download TREC dataset from [here](https://cogcomp.seas.upenn.edu/Data/QA/QC/) to `data/trec/train.txt` and `data/trec/test.txt`.
-
+- Download CF dataset from [here](https://github.com/pabitralenka/Customer-Feedback-Analysis/tree/master/CNN) to `data/cf/train.txt` and `data/cf/test.txt`.
 
 ## Requirements
 
